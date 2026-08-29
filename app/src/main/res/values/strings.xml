@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CoinEx Scanner</string>
+    <string name="title_scanner">اسکنر فشردگی قیمت کوینکس</string>
+    <string name="start_scan">شروع اسکن بازار</string>
+    <string name="scanning">در حال اسکن...</string>
+    <string name="no_results">نتیجه‌ای یافت نشد</string>
+</resources>
